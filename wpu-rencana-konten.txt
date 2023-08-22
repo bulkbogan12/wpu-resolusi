@@ -11,3 +11,4 @@ RENCANA KONTEN WPU
 - Inteview
 - Vlogs
 - Python
+   ^kecerdasan buatan
